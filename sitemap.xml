@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+    <url><loc>http://127.0.0.1:8008/</loc></url> 
+    <url><loc>http://127.0.0.1:8008/about/</loc></url> 
+    <url><loc>http://127.0.0.1:8008/products/</loc></url> 
+    <url><loc>http://127.0.0.1:8008/products/widget.html</loc></url> 
+    <url><loc>http://127.0.0.1:8008/products/gadget.html</loc></url> 
+    <url><loc>http://127.0.0.1:8008/blog/</loc></url> 
+    <url><loc>http://127.0.0.1:8008/blog/post-1.html</loc></url> 
+    <url><loc>http://127.0.0.1:8008/blog/post-2.html</loc></url> 
+    <url><loc>http://127.0.0.1:8008/search/</loc></url> 
+    <url><loc>http://127.0.0.1:8008/contact/</loc></url> 
+</urlset>
