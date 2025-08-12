@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: https://darkcharmin.github.io/crawler-static-gt/sitemap.xml
+Disallow:
+Sitemap: https://darkcharmin.github.io/crawler-static-gt/sitemap.xml
